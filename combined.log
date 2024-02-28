@@ -1,3 +1,5 @@
 {"level":"info","message":"Server is running on http://localhost:3000","service":"file-uploader"}
 {"level":"info","message":"Server is running on http://localhost:3000","service":"file-uploader"}
 {"level":"info","message":"Server is running on http://localhost:3000","service":"file-uploader"}
+{"level":"info","message":"Server is running on http://localhost:3000","service":"file-uploader"}
+{"error":{"status":404},"level":"error","message":"Not Found","service":"file-uploader"}
